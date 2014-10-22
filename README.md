@@ -1,5 +1,6 @@
 SpamassassinBundle
 =====
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/webeith/spamassassin-bundle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![License](https://poser.pugx.org/webeith/spamassassin-bundle/license.png)](https://packagist.org/packages/webeith/spamassassin-bundle)
 [![Total Downloads](https://poser.pugx.org/webeith/spamassassin-bundle/downloads.png)](https://packagist.org/packages/webeith/spamassassin-bundle)
 
